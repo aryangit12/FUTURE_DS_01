@@ -33,3 +33,5 @@ BUSINESS SALES DASHBOARD
 - Payment Mode Analysis – Breakdown of sales by Credit Card, UPI, Debit Card, COD, and EMI.
 - Time-Based Filter – Month slicer for trend analysis across different periods.
 - Interactive Visuals – Clickable and dynamic Power BI visuals for deeper insights.
+
+6. Screenshot link - https://github.com/aryangit12/FUTURE_DS_01/blob/main/business%20sales%20dashboard.png
